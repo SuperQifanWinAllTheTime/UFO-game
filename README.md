@@ -27,10 +27,11 @@ use vector3 to sign with player posistion.
 add circle collider2d to collectable object
 write tansdform.rotate to let the object rotating by sign in vectore3 value.
 
-# game start:
+# Game start:
 ![ufo1](https://user-images.githubusercontent.com/15969187/40992268-5a09ceac-68c4-11e8-94e5-534c2d344793.png)
 
-# game in process:
+# Game in process:
 ![2](https://user-images.githubusercontent.com/15969187/40992320-7cb44798-68c4-11e8-89c7-1de08f2b007e.png)
 
-# game finished:
+# Game finished:
+![3](https://user-images.githubusercontent.com/15969187/40992377-aa0c3dae-68c4-11e8-95ff-1117aa13de0f.png)
